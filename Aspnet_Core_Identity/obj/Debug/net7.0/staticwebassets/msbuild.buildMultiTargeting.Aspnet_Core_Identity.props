@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Aspnet_Core_Identity.props" />
+</Project>
